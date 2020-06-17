@@ -13,3 +13,17 @@ Week 1
 | [5.Random Pick with Weight](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3351/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%201%20June%201st%E2%80%93June%207th/RandomPickWithWeightSolution.java) |
 | [6.Queue Reconstruction by Height](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3352/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%201%20June%201st%E2%80%93June%207th/QueueReconstructionByHeight.java) |
 | [7.Coin Change 2](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3353/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%201%20June%201st%E2%80%93June%207th/CoinChange2.java) |
+
+Week 2
+------
+
+
+| Leetcode URL        | Solution URL           |
+| ------------- |:-------------:|
+| [8.Power of Two](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/PowerOfTwo.java) |
+| [9.Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/IsSubsequence.java) |
+| [10.Search Insert Position](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/SearchInsertPosition.java) |
+| [11.Sort Colors](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/SortColors.java) |
+| [12.Insert Delete GetRandom O(1)](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/InsertDeleteGetRandomO(1).java) |
+| [13.Largest Divisible Subset](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/LargestDivisibleSubset.java) |
+| [14.Cheapest Flights Within K Stops](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3360/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/CheapestFlightsWithinKStops.java) |
