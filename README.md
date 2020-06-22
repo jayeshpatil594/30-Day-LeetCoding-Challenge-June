@@ -27,3 +27,15 @@ Week 2
 | [12.Insert Delete GetRandom O(1)](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/InsertDeleteGetRandomO(1).java) |
 | [13.Largest Divisible Subset](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/LargestDivisibleSubset.java) |
 | [14.Cheapest Flights Within K Stops](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3360/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%202:%20June%208th%E2%80%93June%2014th/CheapestFlightsWithinKStops.java) |
+
+Week 3
+------
+| Leetcode URL        | Solution URL           |
+| ------------- |:-------------:|
+| [15.Search in a Binary Search Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/SearchInABinarySearchTree.java) |
+| [16.Validate IP Address](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/ValidateIPAddress.java) |
+| [17.Surrounded Regions](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/SurroundedRegions.java) |
+| [18.H-Index II](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/H-IndexII.java) |
+| [19.Longest Duplicate Substring](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/LongestDuplicateSubstring.java) |
+| [20.Permutation Sequence](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/PermutationSequence.java) |
+| [21.Dungeon Game](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/DungeonGame.java) |
