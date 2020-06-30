@@ -39,3 +39,22 @@ Week 3
 | [19.Longest Duplicate Substring](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/LongestDuplicateSubstring.java) |
 | [20.Permutation Sequence](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/PermutationSequence.java) |
 | [21.Dungeon Game](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%203:%20June%2015th%E2%80%93June%2021st/DungeonGame.java) |
+
+Week 4
+------
+| Leetcode URL        | Solution URL           |
+| ------------- |:-------------:|
+| [22.Single Number II](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%204:%20June%2022nd%E2%80%93June%2028th/SingleNumberII.java) |
+| [23.Count Complete Tree Nodes](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3369/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%204:%20June%2022nd%E2%80%93June%2028th/CountCompleteTreeNodes.java) |
+| [24.Unique Binary Search Trees](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3370/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%204:%20June%2022nd%E2%80%93June%2028th/UniqueBinarySearchTrees.java) |
+| [25.Find the Duplicate Number](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%204:%20June%2022nd%E2%80%93June%2028th/FindTheDuplicateNumber.java) |
+| [26.Sum Root to Leaf Numbers](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3372/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%204:%20June%2022nd%E2%80%93June%2028th/SumRootToLeafNumbers.java) |
+| [27.Perfect Squares](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3373/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%204:%20June%2022nd%E2%80%93June%2028th/PerfectSquares.java) |
+| [28.Reconstruct Itinerary](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3374/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%204:%20June%2022nd%E2%80%93June%2028th/ReconstructItinerary.java) |
+
+Week 5
+------
+| Leetcode URL        | Solution URL           |
+| ------------- |:-------------:|
+| [29.Unique Paths](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3375/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%205:%20June%2029th%E2%80%93June%2030th/UniquePaths.java) |
+| [30.Word Search II](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3376/)  | [Solution](https://github.com/jayeshpatil594/30-Day-LeetCoding-Challenge-June/blob/master/Week%205:%20June%2029th%E2%80%93June%2030th/WordSearchII.java) |
